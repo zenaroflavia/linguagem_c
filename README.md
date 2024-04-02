@@ -1,2 +1,2 @@
 # linguagem_c
-Cóidgos de C
+Códigos de C
